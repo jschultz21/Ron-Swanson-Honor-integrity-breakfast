@@ -1,22 +1,16 @@
 @charset "UTF-8";
 /* CSS Document */
 
-
 body {
-	
 	background: #bdad95 /* url("../_img/_Swanson.jpg") no-repeat bottom right fixed*/;
-	width: 960px; 
-	
+	width: 960px;
 	margin: 0 auto;
-	
-	/* background: #FCEDDC; */
-	
-	
 }
+
 #everything {
-		background: #E6DCCC /* url("../_img/_textpap.png") repeat*/;
+	background: #E6DCCC /* url("../_img/_textpap.png") repeat*/;
 }
-	 
+
 p {
 	font-family: Cabin condensed, times new roman, serif;
 	color: #05275E;
@@ -24,8 +18,8 @@ p {
 	line-height: 1.5;
 	padding: 0 15px 0 0px;
 	text-align: center;
-}		
-		
+}
+
 
 
 h1{
@@ -35,71 +29,58 @@ h1{
 	color: #123052;
 	text-align: center;
 	margin: 30px 0 0px 0;
-	width: 960px; 
+	width: 960px;
 	background: rgba(189,173,149,.4);
 	padding: 10px 0;
-		
-	
 }
 
 #middle {
-	  width: 960px;
-	  overflow: hidden; 
-      position: relative; 
-      clear: both;
-		padding: 0px 10px;	 
+	width: 960px;
+	overflow: hidden;
+	position: relative;
+	clear: both;
+	padding: 0px 10px;
 }
 
-
-
 h2 {
-	font-family: Cabin Sketch, times new roman, serif; 
+	font-family: Cabin Sketch, times new roman, serif;
 	font-size: 40pt;
 	color: #780A0A;
 	line-height: .9;
 	text-align: center;
-	
 }
 
 
 #teaser{
-		float: left;
-		width: 240px;
-		padding: 0 0 0 15px;
+	float: left;
+	width: 240px;
+	padding: 0 0 0 15px;
 }
 
 #teaser h2 {
 	padding: 0px 0 0 10px;
 	margin: 20px 0 -5px 0;
-	
-	
 }
-	
 
 #swansonpic {
 	float: left;
 	width: 400px;
 	margin: 0 5px -10px 0;
-	
-	
 }
 #datetime {
-		line-height: .7;
-		margin: 35px 0 0 0;
-		padding: 10px 0 0 0;
-		
-		
+	line-height: .7;
+	margin-top: 35px;
+	padding-top: 10px;
 }
+
 #setting {
-		line-height: .7;
-		margin: 0;
-	
+	line-height: .7;
+	margin: 0;
 }
 
 #swansonpic p {
-		font-size: 17pt;
-		line-height: 1;
-		
+	font-size: 17pt;
+	line-height: 1;
 }
 
 #bio{
@@ -107,24 +88,18 @@ h2 {
 	width: 260px;
 	padding: 0 10px 0 0;
 	margin: 0 0 0 10px;
-	
-	
 }
 
 #bio h2{
 	width: 270px;
 	margin: 20px 0 -5px 0;
 	padding: 0 10px 0 0;
-	
-	
 }
 
 
 
 #footer {
-	
-	background: rgba(189,173,149,.4);
-   border-bottom: solid 30px #E6DCCC; 
 
-	
+	background: rgba(189,173,149,.4);
+	border-bottom: solid 30px #E6DCCC;
 }
