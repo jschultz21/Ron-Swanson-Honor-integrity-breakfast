@@ -2,13 +2,13 @@
 /* CSS Document */
 
 body {
-	background: #bdad95 /* url("../img/_Swanson.jpg") no-repeat bottom right fixed*/;
+	background: #bdad95 /* url("../_img/_Swanson.jpg") no-repeat bottom right fixed*/;
 	width: 960px;
 	margin: 0 auto;
 }
 
 #everything {
-	background: #E6DCCC /* url("../img/_textpap.png") repeat*/;
+	background: #E6DCCC /* url("../_img/_textpap.png") repeat*/;
 }
 
 p {
